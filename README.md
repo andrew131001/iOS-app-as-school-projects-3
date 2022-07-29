@@ -20,9 +20,7 @@
 ## What's missing?
 - Auto layout (Consraints)
 
-<img width="250" alt="Screen Shot 2022-07-29 at 3 57 53 PM" src="https://user-images.githubusercontent.com/37741042/181834820-2be8b630-ef9d-4ddf-8ae5-0794c2caccf5.png"> |
-<img width="250" alt="Screen Shot 2022-07-29 at 3 58 14 PM" src="https://user-images.githubusercontent.com/37741042/181834837-6e324e72-3cb5-4a40-b43d-e703fa628c73.png"> |
-<img width="250" alt="Screen Shot 2022-07-29 at 3 58 27 PM" src="https://user-images.githubusercontent.com/37741042/181834854-9b2bd2ac-35fd-4fd9-9d6b-b95643b1ab6c.png">
+<img width="250" alt="Screen Shot 2022-07-29 at 3 57 53 PM" src="https://user-images.githubusercontent.com/37741042/181834820-2be8b630-ef9d-4ddf-8ae5-0794c2caccf5.png"> <img width="250" alt="Screen Shot 2022-07-29 at 3 58 14 PM" src="https://user-images.githubusercontent.com/37741042/181834837-6e324e72-3cb5-4a40-b43d-e703fa628c73.png"> <img width="250" alt="Screen Shot 2022-07-29 at 3 58 27 PM" src="https://user-images.githubusercontent.com/37741042/181834854-9b2bd2ac-35fd-4fd9-9d6b-b95643b1ab6c.png">
 
 
 
