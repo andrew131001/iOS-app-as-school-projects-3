@@ -9,8 +9,7 @@
 <img width="656" alt="Screen Shot 2022-07-29 at 3 36 57 PM" src="https://user-images.githubusercontent.com/37741042/181832315-aeaee5de-8a31-4859-90b2-3c550a01311d.png">
 
 
-## Exercise Two
-- Tip calculator
+## Exercise Two - Tip calculator
 - Basic tip (15%) and total amount of bill will be calculated as soon as user enters input
 - Custom tip (0% to 30%) can be changed by adjusting slider and calculation will be displayed dynamically
 - Keyboard will be dismissed by touching background area
