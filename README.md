@@ -5,8 +5,6 @@
 - Make a login page and go to Client Info page by clicking Login button
 - On Client page, by clicking submit button, input user entered on TextFiedls will be displayed at the TextView
 
-### What's Missing?
-- Auto layout (Consraints)
 
 <img width="656" alt="Screen Shot 2022-07-29 at 3 36 57 PM" src="https://user-images.githubusercontent.com/37741042/181832315-aeaee5de-8a31-4859-90b2-3c550a01311d.png">
 
